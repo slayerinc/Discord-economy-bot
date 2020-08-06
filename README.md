@@ -1,12 +1,12 @@
 # Discord.js economy bot
-[![Language](https://img.shields.io/badge/Language-Node.js-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
-[![Framework](https://img.shields.io/badge/Framework-Discord.js-dodgerblue?style=for-the-badge&logo=discord)](https://discord.js.org)
+[![Language](https://img.shields.io/badge/Language-Node.js-green)](https://nodejs.org)
+[![Framework](https://img.shields.io/badge/Framework-Discord.js_v12.2.0-dodgerblue)](https://discord.js.org)
 
 # Description
- Discord.js economy bot writtin in node.js for https://discord.com
+Discord.js economy bot writtin in node.js for https://discord.com
 
 # Creator
- grace#7933
+grace#7933
  
 # Setup
  1. Make a new application [here](https://discord.com/developers/applications), go to bot and press create.
@@ -16,4 +16,4 @@
  5. Start your bot and your done.
  
 # Support 
- Star my repository to and follow me support me
+Star my repository to and follow me support me
