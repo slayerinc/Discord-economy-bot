@@ -1,0 +1,22 @@
+{
+    "prefix": "e!",
+    "token": "NzM1NTg4OTIyMzM1MTY2NTM1.XxicoA.li4nkN7K-R0epOkDj-bJrO4D9as",
+    "neededrobamount": 500,
+    "neededpayamount": 100,
+    "max": {
+        "add": 10000,
+        "remove": 10000
+    },
+    "min": {
+        "add": 1,
+        "remove": 1
+    },
+    "search": {
+        "locations": {
+            "garbage": "the trash",
+            "car": "a car",
+            "house": "your house"
+        }
+    },
+    "url": "Powered by https://github.com/slayerinc"
+}

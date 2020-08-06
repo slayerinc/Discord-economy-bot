@@ -1,2 +1,2 @@
 # Discord.js economy bot
- Discord.js economy bot build using node.js and quick.db for https://discord.com
+ Discord.js economy bot writtin in node.js for https://discord.com

@@ -1,0 +1,18 @@
+{
+  "name": "discord.js-economy-bot",
+  "version": "1.0.0",
+  "description": "Discord.js economy bot writtin in node.js made for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "discord.js-economy-bot"
+  },
+  "author": "grace",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
