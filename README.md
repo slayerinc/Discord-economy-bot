@@ -16,4 +16,4 @@ Made by SlayerInc
  5. Start your bot and your done.
  
 # Support 
-Star my repository to and follow me support me
+Star my repository and follow me. to support me! :D
