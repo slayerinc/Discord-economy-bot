@@ -25,5 +25,5 @@ Made by SlayerInc
 - Coming Soon :)
 ```
  
-## Support 
+# Support 
 Star my repository and follow me. to support me! :D
